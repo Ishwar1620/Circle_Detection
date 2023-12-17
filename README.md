@@ -31,3 +31,5 @@ In summary, the designed model utilizes a MobileNetV2 backbone for feature extra
 **Intersection of Union IOU SCORE**
 
 IOU score of 0.95 on 500 samples with a noise level of 0.5
+
+Google Colab Link : https://colab.research.google.com/drive/1ChNkkHcpPVNFaDD23w5Ilt4Gmmu7Sxlo?usp=sharing
