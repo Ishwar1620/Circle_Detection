@@ -1,4 +1,4 @@
-#Circle Detection using Deep Learning 
+# Circle Detection using Deep Learning 
 Designing a Convolutional Neural Network (CNN) model for the specified task involves several components and considerations.
 
 **Data Preprocessing:**
